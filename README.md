@@ -236,7 +236,7 @@ O projeto já possui `.gitignore` configurado para ignorar:
 ✔ API operacional\
 ✔ Integração com Ollama funcionando\
 ✔ Tool de cálculo validada\
-✔ Swagger funcionando\
+✔ Swagger funcionando
 
 ------------------------------------------------------------------------
 
