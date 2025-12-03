@@ -237,7 +237,6 @@ O projeto já possui `.gitignore` configurado para ignorar:
 ✔ Integração com Ollama funcionando\
 ✔ Tool de cálculo validada\
 ✔ Swagger funcionando\
-✔ Pronto para entrega no desafio DreamSquad
 
 ------------------------------------------------------------------------
 
