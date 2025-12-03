@@ -1,4 +1,4 @@
-from strands import Tool
+from strands import tool
 
 def calculate_expression(expr: str):
     try:
@@ -6,7 +6,7 @@ def calculate_expression(expr: str):
     except Exception:
         return "Erro ao calcular expressão"
 
-calculator_tool = Tool(
+calculator_tool = tool(
     name="calculator",
     description="Resolve expressões matemáticas simples.",
     func=lambda query: calculate_expression(query)
