@@ -116,14 +116,8 @@ ollama list
 Crie um arquivo `.env` baseado no `.env.example`:
 
 ``` env
-APP_ENV=local
-APP_DEBUG=true
-
 LLM_MODEL=qwen3:4b
 LLM_ENDPOINT=http://localhost:11434
-
-AGENT_NAME=DreamSquadAgent
-LLM_TIMEOUT=40
 ```
 
 ------------------------------------------------------------------------
