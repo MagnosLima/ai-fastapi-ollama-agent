@@ -9,8 +9,7 @@ def create_agent():
     """
     agent = Agent(
         name="FastAPIOllamaAgent",
-        instructions="Você é um agente que auxilia em cálculos e interações simples.",
-        tools=[calculator_tool],  # Aqui adicionamos nossas ferramentas
+        tools=[calculator_tool],
     )
 
     return agent
