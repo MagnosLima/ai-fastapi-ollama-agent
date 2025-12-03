@@ -79,6 +79,12 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
+#### Git Bash:
+
+``` bash
+source venv/Scripts/activate
+```
+
 ------------------------------------------------------------------------
 
 ### 3️⃣ Instalar dependências
