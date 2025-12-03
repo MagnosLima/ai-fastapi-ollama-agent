@@ -55,8 +55,8 @@ Comunicação com o Ollama é feita **diretamente pelo Strands**, sem uso de `ht
 ### 1️⃣ Clonar o repositório
 
 ``` bash
-git clone <URL_DO_REPOSITORIO>
-cd dreamsquad-ia-chat
+git clone https://github.com/MagnosLima/ai-fastapi-ollama-agent.git
+cd ai-fastapi-ollama-agent
 ```
 
 ------------------------------------------------------------------------
